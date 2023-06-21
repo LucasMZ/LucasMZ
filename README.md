@@ -4,5 +4,5 @@
 ![css](https://github.com/LucasMZ/LucasMZ/assets/92659220/1896d4d2-5b1d-43e1-8789-71846b5bc20a)
 ![ts](https://github.com/LucasMZ/LucasMZ/assets/92659220/6d9f0363-b15c-4938-9d3b-69429235019b)
 <br>
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMZ&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMZ&hide_progress=true)
 
