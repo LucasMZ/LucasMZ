@@ -1,4 +1,4 @@
-- Olá, me chamo Lucas e atualmente sou um Desenvolvedor Fullstack C# E REACT. Também estou estudando
+ Olá, me chamo Lucas e atualmente sou um Desenvolvedor Fullstack C# E REACT. Também estou estudando
 o desenvolvimento de projetos utilizando SpringBoot e AngularJS
 <br>
 ![react](https://github.com/LucasMZ/LucasMZ/assets/92659220/ca890bcf-de23-4f2a-88c3-ac6e11ebdcf4)
